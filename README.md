@@ -5,7 +5,7 @@ Aplicación web para gestionar el préstamo de elementos audiovisuales (cámaras
 ## Desarrolladores
 - GUSTAVO ADOLFO VILLA SANCHEZ
 - JOSE LEONEL HIDALGO
-- 
+  
 ## Requisitos
 - Python 3.8 o superior
 - Pip
