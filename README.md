@@ -2,6 +2,10 @@
 
 Aplicación web para gestionar el préstamo de elementos audiovisuales (cámaras, micrófonos, etc.) construida con Flask.
 
+## Desarrolladores
+- GUSTAVO ADOLFO VILLA SANCHEZ
+- JOSE LEONEL HIDALGO
+- 
 ## Requisitos
 - Python 3.8 o superior
 - Pip
@@ -139,6 +143,3 @@ flask run --debug
 - Si usas PostgreSQL, asegúrate de que el servicio esté activo y que el usuario tenga permisos de creación de bases de datos si vas a usar `create_db.py`.
 - Para SQLite, no se requiere servicio externo; el archivo `.db` se crea localmente.
 
-## Desarrolladores
-- GUSTAVO ADOLFO VILLA SANCHEZ
-- JOSE LEONEL HIDALGO
