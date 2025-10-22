@@ -2,6 +2,10 @@
 
 Web application to manage loans of audiovisual equipment (cameras, microphones, etc.) built with Flask.
 
+## Developers
+- GUSTAVO ADOLFO VILLA SANCHEZ
+- JOSE LEONEL HIDALGO
+  
 ## Requirements
 - Python 3.8+
 - Pip
@@ -140,6 +144,3 @@ flask run --debug
 - If using PostgreSQL, ensure the service is running and the user has permission to create databases if you plan to use `create_db.py`.
 - For SQLite, no external service is required; the `.db` file is created locally.
 
-## Developers
-- GUSTAVO ADOLFO VILLA SANCHEZ
-- JOSE LEONEL HIDALGO
